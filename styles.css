@@ -81,6 +81,13 @@ header ul button a {
     border-radius: 25px;
     position: relative;
     cursor: pointer;
+    padding: 5px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    transform: scale(1,2);
     
 }
 
